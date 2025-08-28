@@ -1,2 +1,2 @@
 # CoffeeShop-Management-System
-A console-based C++ project for managing a coffee shop
+A console-based Java project for managing a coffee shop
